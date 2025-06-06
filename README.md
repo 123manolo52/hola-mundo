@@ -8,10 +8,10 @@
 MEJORES GRUPOS HEAVY
 
 
-| RANK |    |THING-TO-RANK|
-|-----:|    |-------------|
-|     1|    |GUNS N ROSES |
-|     2|    |BON JOVI     |
-|     3|    |MOTHLEY CRUE |
-|     4|    |POISON       |
-|     5|    |AC DC        |
+| RANK | THING-TO-RANK|
+|-----:|--------------|
+|     1| GUNS N ROSES |
+|     2| BON JOVI     |
+|     3| MOTHLEY CRUE |
+|     4| POISON       |
+|     5| AC DC        |
