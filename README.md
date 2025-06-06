@@ -30,6 +30,19 @@ MEJORES GRUPOS HEAVY
 </details>
 
 
+## HEAVY METAL
+
+### MEJORES GRUPOS HEAVY
+
+| RANK | BANDA | IMAGEN |
+|------|----------------|--------------------------------|
+| 1    | Guns N' Roses | ![Guns N' Roses](https://upload.wikimedia.org/wikipedia/commons/6/6a/Guns_N'_Roses_Band_Photo.jpg) |
+| 2    | Bon Jovi | ![Bon Jovi](https://upload.wikimedia.org/wikipedia/commons/1/1a/Bon_Jovi_Band_Photo.jpg) |
+| 3    | Mötley Crüe | ![Mötley Crüe](https://upload.wikimedia.org/wikipedia/commons/3/3f/Motley_Crue_Band_Photo.jpg) |
+| 4    | Poison | ![Poison](https://upload.wikimedia.org/wikipedia/commons/a/a4/Poison_Band_Photo.jpg) |
+| 5    | AC/DC | ![AC/DC](https://upload.wikimedia.org/wikipedia/commons/5/56/ACDC_Band_Photo.jpg) |
+
+
 
 [![AI Generado - Robot Cyborg](https://cdn.pixabay.com/photo/2023/07/16/12/45/ai-generated-8358784_1280.png)](https://pixabay.com/es/illustrations/ai-generado-robot-cyborg-monstruo-8358784/)
 
