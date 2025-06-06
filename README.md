@@ -31,10 +31,8 @@ MEJORES GRUPOS HEAVY
 
 
 
-  <source srcset="https://pixabay.com/es/illustrations/imagen-grande.jpg" media="(min-width: 800px)">
-  <source srcset="https://pixabay.com/es/illustrations/imagen-mediana.jpg" media="(min-width: 500px)">
-  <img src="https://pixabay.com/es/illustrations/imagen-pequeña.jpg" alt="Imagen adaptable">
-</picture>
+[![AI Generado - Robot Cyborg](https://cdn.pixabay.com/photo/2023/07/16/12/45/ai-generated-8358784_1280.png)](https://pixabay.com/es/illustrations/ai-generado-robot-cyborg-monstruo-8358784/)
+
 
 
 
