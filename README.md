@@ -38,7 +38,7 @@ MEJORES GRUPOS HEAVY
 |------|----------------|--------------------------------|
 | 1    | Guns N' Roses | ![Guns N' Roses](https://upload.wikimedia.org/wikipedia/commons/a/a3/GNR_London_Stadium_2017_3_%28cropped%29.jpg) |
 | 2    | Bon Jovi | ![Bon Jovi](https://upload.wikimedia.org/wikipedia/commons/e/e4/Jon_Bon_Jovi_87.jpg) |
-| 3    | Mötley Crüe | ![Mötley Crüe](https://upload.wikimedia.org/wikipedia/commons/3/3f/Motley_Crue_Band_Photo.jpg) |
+| 3    | Mötley Crüe | ![Mötley Crüe](https://upload.wikimedia.org/wikipedia/commons/b/b4/Crue_CIMG4784.JPG) |
 | 4    | Poison | ![Poison](https://upload.wikimedia.org/wikipedia/commons/a/a4/Poison_Band_Photo.jpg) |
 | 5    | AC/DC | ![AC/DC](https://upload.wikimedia.org/wikipedia/commons/5/56/ACDC_Band_Photo.jpg) |
 
