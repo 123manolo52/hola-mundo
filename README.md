@@ -8,7 +8,7 @@
 MEJORES GRUPOS HEAVY
 
 
-| RANK | BANDAS       |
+| RANK |THINGS-TO-RANK|
 |-----:|--------------|
 |     1| GUNS N ROSES |
 |     2| BON JOVI     |
