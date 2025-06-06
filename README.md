@@ -37,7 +37,7 @@ MEJORES GRUPOS HEAVY
 | RANK | BANDA | IMAGEN |
 |------|----------------|--------------------------------|
 | 1    | Guns N' Roses | ![Guns N' Roses](https://upload.wikimedia.org/wikipedia/commons/a/a3/GNR_London_Stadium_2017_3_%28cropped%29.jpg) |
-| 2    | Bon Jovi | ![Bon Jovi](https://es.wikipedia.org/wiki/Bon_Jovi#/media/Archivo:Bon_Jovi_2010.png) |
+| 2    | Bon Jovi | ![Bon Jovi](https://es.wikipedia.org/wiki/Bon_Jovi#/media/Archivo:Bon_Jovi_2010.jpg) |
 | 3    | Mötley Crüe | ![Mötley Crüe](https://upload.wikimedia.org/wikipedia/commons/3/3f/Motley_Crue_Band_Photo.jpg) |
 | 4    | Poison | ![Poison](https://upload.wikimedia.org/wikipedia/commons/a/a4/Poison_Band_Photo.jpg) |
 | 5    | AC/DC | ![AC/DC](https://upload.wikimedia.org/wikipedia/commons/5/56/ACDC_Band_Photo.jpg) |
