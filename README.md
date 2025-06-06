@@ -15,3 +15,18 @@ MEJORES GRUPOS HEAVY
 |     3| MOTHLEY CRUE |
 |     4| POISON       |
 |     5| AC DC        |
+
+<details>
+  <summary>Mejores grupos heavy</summary>
+
+  | RANK | BAND |
+  |------|----------------|
+  | 1    | Guns N' Roses |
+  | 2    | Bon Jovi |
+  | 3    | Mötley Crüe |
+  | 4    | Poison |
+  | 5    | AC/DC |
+
+</details>
+
+
